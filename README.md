@@ -7,7 +7,7 @@
 <br />
 <br />
 
-<img src="./favicon_io/android-chrome-192x192.png" style="width: 155">
+<img src="./favicon_io/android-chrome-192x192.png" style="width: 100">
 
 <h2 align="center">Number Nest | Guess The Mystery Number</h2>
 Put your guessing skills to the test with our interactive Guess My Number game! Built using HTML, CSS, and JavaScript, challenge yourself to guess the secret number within a limited number of attempts. Enjoy sleek design, intuitive controls, and engaging gameplay. Will you crack the code and claim victory? Play now and embark on a thrilling number-guessing adventure!
