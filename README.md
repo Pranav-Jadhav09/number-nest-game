@@ -2,7 +2,7 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Pranav-Jadhav09/number-nest-game)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Pranav_Jadhav09?style=social)](https://twitter.com/Pranav_Jadhav09)
-[![Hashnode Badge](https://img.shields.io/badge/Read_What_I_learn-2962FF?style=social&logo=hashnode&logoColor=blue)](https://thejrpranav09.hashnode.dev/gsap-essentials-a-guide-to-basics-for-seamless-web-animations)
+[![Hashnode Badge](https://img.shields.io/badge/Read_What_I_learn-2962FF?style=social&logo=hashnode&logoColor=blue)](https://thejrpranav09.hashnode.dev/javascript-game-dive-into-the-number-nest-game)
 
 <br />
 <br />
