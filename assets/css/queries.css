@@ -1,0 +1,47 @@
+/* --- Media Queries --- */
+
+/* Below 1344px (Smaller desktops) */
+@media (max-width: 84em) {
+}
+
+/* Below 1200px (Landscape Tablets) */
+@media (max-width: 75em) {
+  html {
+    font-size: 56.25%;
+  }
+}
+
+/* Below 944px (Tablets) */
+@media (max-width: 59em) {
+  html {
+    font-size: 50%;
+  }
+}
+
+/* Below 704px (Smaller Tablets) */
+@media (max-width: 44em) {
+}
+
+/* Below 544px (Phones) */
+@media (max-width: 34em) {
+  /* layout */
+  main {
+    flex-direction: column;
+    height: 60vh;
+  }
+  .right {
+    text-align: center;
+  }
+  .left {
+    margin-top: 4rem;
+  }
+
+  /* Element */
+  h1 {
+    font-size: 3.5rem;
+    line-height: 1.2;
+  }
+  .btn {
+    padding: 1rem 1.5rem;
+  }
+}

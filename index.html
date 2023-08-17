@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Meta Tags -->
+    <meta name="keywords" content="guess, number, game, fun, challenge" />
+    <meta name="author" content="Jr.Pranav" />
+    <meta
+      name="description"
+      content="Put your guessing skills to the test with our interactive Guess My Number game! Built using HTML, CSS, and JavaScript, challenge yourself to guess the secret number within a limited number of attempts. Enjoy sleek design, intuitive controls, and engaging gameplay. Will you crack the code and claim victory? Play now and embark on a thrilling number-guessing adventure!"
+    />
+    <title>NumberNest | Guess the Mystery Number Game</title>
+
+    <!-- favicon -->
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="favicon_io/apple-touch-icon.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="favicon_io/favicon-32x32.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="favicon_io/favicon-16x16.png"
+    />
+    <link rel="manifest" href="favicon_io/site.webmanifest" />
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="./assets/css/style.css" />
+    <link rel="stylesheet" href="./assets/css/queries.css" />
+  </head>
+  <body>
+    <!-- Header -->
+    <header>
+      <h1>Guess My Number!</h1>
+      <p class="between">(Between 1 and 20)</p>
+      <button class="btn again">Again!</button>
+      <div class="number">?</div>
+    </header>
+
+    <!-- Main -->
+    <main>
+      <!-- Left -->
+      <section class="left">
+        <input type="number" class="guess" />
+        <button class="btn check">Check!</button>
+      </section>
+
+      <!-- Right -->
+      <section class="right">
+        <p class="message">Start guessing...</p>
+        <p class="label-score">
+          💯 Score:
+          <span class="score">20</span>
+        </p>
+        <p class="high-score">
+          🥇 High Score: <span class="highScore">0</span>
+        </p>
+      </section>
+    </main>
+
+    <!-- Game Logic Js -->
+    <script src="./assets/js/app.js"></script>
+  </body>
+</html>
